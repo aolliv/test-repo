@@ -1,0 +1,68 @@
+*{
+
+	border: 1px solid black;
+	font-family: 'Chilanka', cursive;
+background: url('images/background.jpg') no-repeat center fixed;
+margin: 6px;
+
+}
+
+#wrapper{
+width: 90%;
+height: auto;
+margin: 0 auto;
+padding: 12px;
+}
+
+#title{
+font-size: 40px;
+}
+
+#Marca{
+width: 100%;
+height: auto;
+}
+
+#one{
+width: 31%;
+display: inline-block;
+padding: 12px;
+}
+
+#two{
+width: 31%;
+display: inline-block;
+padding: 12px;
+}
+
+#three{
+width: 31%;
+display: inline-block;
+padding: 12px;
+}
+
+#one .circle-image{
+width: 200px;
+height: 200px;
+border-radius: 200px;
+background: url('images/1.jpg') no-repeat;
+
+}
+
+#two .circle-image{
+width: 200px;
+height: 200px;
+border-radius: 200px;
+background: url('images/2.jpg') no-repeat;
+}
+
+#three .circle-image{
+width: 200px;
+height: 200px;
+border-radius: 200px;
+background: url('images/3.jpg') no-repeat;
+
+}
+
+
+
